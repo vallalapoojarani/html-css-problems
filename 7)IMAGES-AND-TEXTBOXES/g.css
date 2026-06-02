@@ -1,0 +1,25 @@
+.pic{
+    width:50px;
+    height: 50px;
+    border-radius:180px;
+    object-fit: cover;
+    object-position: center;
+    vertical-align: middle;
+}
+.what{
+    font-size: 18px;
+    border:none;
+    width:300px;
+    vertical-align: middle;
+}
+.tweet{
+    background-color: blue;
+    color:white;
+    border-radius: 30px;
+    border:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    vertical-align: middle;
+}

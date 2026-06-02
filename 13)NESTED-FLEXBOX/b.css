@@ -1,0 +1,48 @@
+.nestedflexbox{
+    display: flex;
+    flex-direction: row;
+    height:80px;
+}
+.column1{
+    background-color: palevioletred;
+    width:100px;
+}
+.column2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: block;
+    justify-content: center;
+    padding-top: 10px;
+
+    width:200px;
+    background-color: blue;
+}
+.item0{
+    display: block;
+    margin-top: 0;
+}
+.item1{
+    background-color: black;
+    color:white;
+    justify-content: space-between;
+    display: block;
+    width:35px;
+
+}
+.item2{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    display: block;
+    padding-top: 27px;
+    align-items: center;
+}
+.he2{
+    background-color: black;
+    color:white;
+
+}
+div{
+    font-family: arial;
+}

@@ -1,0 +1,12 @@
+    p{
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .model{
+        font-weight:bold;
+        font-size:35px;
+    }
+    .or{
+        text-decoration: underline;
+    }
+

@@ -1,0 +1,47 @@
+.oliver{
+    font-family: arial;
+    font:bold;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.mut{
+    margin-top:0px;
+    margin-bottom: 0;
+}
+button{
+    background-color: blue;
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border:none;
+}
+img{
+    padding-top: 70px;
+    height:210px;
+    width:160px;
+    padding-top: 4px;
+}
+.all{
+   
+     border-width:1px;
+    border-style:solid;
+    border-color:black(150,150,150);
+    width:180px;
+    padding-left: 12px;
+    padding-right: 8px;
+    padding-bottom: 15px;
+    padding-top:0;
+    display:inline-block;
+    margin-left: 15px;
+    
+
+   
+
+}

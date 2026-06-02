@@ -1,0 +1,38 @@
+p{
+    
+
+    font-family:"Arial, Helvetica, sans-serif";
+    font-size:40px;
+    margin-bottom: 1px;
+      
+
+}
+input{
+    width:400px;
+    margin-bottom: 20px;
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+
+
+}
+.but{
+    background-color: black;
+    color:white;
+    display: inline-block;
+    margin-right: 50px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-right: 14px;
+    margin-right: 0;
+}
+.later{
+     display: inline-block;
+    margin-right: 50px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 14px;
+    margin-left: 0;
+
+}

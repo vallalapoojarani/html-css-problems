@@ -1,0 +1,16 @@
+.flexbox{
+    display:flex;
+    flex-direction: row;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: pink;
+}
+.item1{
+    width:200px;
+}
+.item2{
+    width:75px;
+}

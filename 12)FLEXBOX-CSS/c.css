@@ -1,0 +1,10 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-evenly;
+    background-color: aqua;
+
+}
+.blue,.pink,.light,.light-pink{
+    background-color: pink;
+}
