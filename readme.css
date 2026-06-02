@@ -1,0 +1,42 @@
+# HTML & CSS Problems Task
+
+## Overview
+This repository contains solutions to various HTML and CSS practice problems. The purpose of these exercises is to improve understanding of web page structure, styling, layouts, responsiveness, and modern CSS techniques.
+
+## Objectives
+- Practice semantic HTML.
+- Improve CSS styling skills.
+- Learn responsive web design.
+- Build clean and maintainable code.
+- Understand layouts using Flexbox and Grid.
+
+## Problems Included
+
+### Problem 1: Basic Web Page
+- Create a simple webpage with a header, main content section, and footer.
+- Use semantic HTML tags.
+
+### Problem 2: Navigation Bar
+- Design a responsive navigation menu.
+- Add hover effects using CSS.
+
+### Problem 3: Card Component
+- Create a reusable card with:
+  - Image
+  - Title
+  - Description
+  - Button
+
+### Problem 4: Responsive Layout
+- Build a layout using Flexbox or CSS Grid.
+- Ensure it works on mobile, tablet, and desktop screens.
+
+### Problem 5: Form Styling
+- Design and style a contact form.
+- Add proper spacing, borders, and focus states.
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Project Structure
